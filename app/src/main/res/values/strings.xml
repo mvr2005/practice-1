@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">practice frome neco if</string>
+    <string name="tx1">введите количество подписчиков </string>
+    <string name="tx1plain">введите число </string>
+    <string name="bt1">проверить статус </string>
+</resources>
